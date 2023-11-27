@@ -1,2 +1,3 @@
 # Airline Management System
-Airline Database System using Java Swing Library and MySQL
+Developed an Airline Database System using Java Swing Library for the user interface and MySQL for backend data management. Designed a user-friendly interface with Java Swing, enabling efficient interaction with the database. Integrated MySQL to store and retrieve airline-related data, ensuring seamless data management.Developed an Airline Database System using Java Swing Library for the user interface and MySQL for backend data management. Designed a user-friendly interface with Java Swing, enabling efficient interaction with the database. Integrated MySQL to store and retrieve airline-related data, ensuring seamless data management.
+
